@@ -28,7 +28,7 @@ public class Test {
 //		  mailInfo.setMailServerPort("25"); 
 //		  mailInfo.setValidate(true); 
 //		  mailInfo.setUserName("1034914256@qq.com"); 
-//		  mailInfo.setPassword("78927aab43q");//您的邮箱密码 
+//		  mailInfo.setPassword("83jjeuu2is");//您的邮箱密码 
 //		  mailInfo.setFromAddress("1034914256@qq.com"); 
 //		  mailInfo.setToAddress("1034914256@qq.com"); 
 //		  mailInfo.setSubject("设置邮箱标题"); 
